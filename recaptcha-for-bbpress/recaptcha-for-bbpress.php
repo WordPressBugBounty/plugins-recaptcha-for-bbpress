@@ -4,7 +4,7 @@
  * Plugin URI: http://wordpress.org/plugins/recaptcha-for-bbpress/
  * Description: Protect your bbPress forum from spam using Googles reCAPTCHA v2. This plugin prevent bots to spam your forum and has option to enabe reCAPTCHA for guest users & logged-in users.
  * Author: Hitesh Chandwani
- * Version: 1.0.7
+ * Version: 1.0.8
  * Author URI: https://hiteshchandwani.com
  * Text Domain: recaptcha-for-bbpress
  * Domain Path: /languages

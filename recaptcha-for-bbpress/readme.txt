@@ -8,9 +8,9 @@ Author: Hitesh Chandwani
 Tags: reCAPTCHA for bbPress, bbPress reCAPTCHA, bbPress Captcha, bbPress Captcha add-on, bbPress reCAPTCHA v2, bbPress
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
-Version: 1.0.7
+Version: 1.0.8
 Requires at least: 4.7
-Tested up to: 6.4
+Tested up to: 6.7
 Stable tag: 1.0.5
 
 == Description ==
@@ -27,6 +27,9 @@ Stable tag: 1.0.5
 2. Input google reCAPTCHA site Keys.
 
 == Changelog ==
+
+= 1.0.8 =
+* Compatibility check with new version
 
 = 1.0.5 =
 * Compatibility check with new version
