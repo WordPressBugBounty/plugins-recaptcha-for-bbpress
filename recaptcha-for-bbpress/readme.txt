@@ -1,17 +1,18 @@
 === reCAPTCHA for bbPress ===
-
 Contributors: hiteshchandwani
 Plugin Name: reCAPTCHA for bbPress
 Plugin URI: http://wordpress.org/plugins/bbpress-google-recaptcha-v2/
 Author URI: https:/hiteshchandwani.com
 Author: Hitesh Chandwani
-Tags: reCAPTCHA for bbPress, bbPress reCAPTCHA, bbPress Captcha, bbPress Captcha add-on, bbPress reCAPTCHA v2, bbPress
+Tags: reCAPTCHA for bbPress, bbPress reCAPTCHA, bbPress Captcha add-on, bbPress reCAPTCHA v2, bbPress
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 Version: 1.0.8
 Requires at least: 4.7
 Tested up to: 6.7
 Stable tag: 1.0.5
+
+Google reCAPTCHA v2 for bbPress is a free plugin/add-on for bbPress, that allow you to easily add Google reCAPTCHA v2 on your bbPress forum.
 
 == Description ==
 
